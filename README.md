@@ -1,43 +1,43 @@
-# David-Lucas
-🌐 Cybersecurity + Cloud enthusiast | Building hands-on skills in SOC tools, threat detection, and AWS | Follow my lab journey
-
 # 👋 Hi, I'm David Lucas
 
-🎯 **Aspiring Cybersecurity & Cloud Professional**  
+🌐 **Cybersecurity & Cloud Trainee**  
 🛡️ Current Student @ MyComputerCareer | 🎓 Using GI Bill to transition into tech  
-🔧 Building hands-on projects in security monitoring, threat analysis, and cloud infrastructure
+🔧 Building hands-on projects in SOC workflows, threat detection, and cloud security
 
 ---
 
 ## 🧰 Tech Skills & Focus Areas
 
-- 🔒 Security Tools: Splunk, Wireshark, Hydra, Metasploit, Fail2Ban
-- ☁️ Cloud: AWS (in progress), IAM, S3, basic EC2 setup
-- 🧪 Home Labs: Brute force detection, log monitoring, SSH hardening, cloud misconfig testing
-- 🛠️ OS & Platforms: Kali Linux, Ubuntu, Windows Server, GitHub
-- 📜 Studying: CompTIA Security+, AWS Cloud Practitioner
+**🔒 Security Tools & Detection**: Splunk, Hydra, Metasploit  
+**☁️ Cloud Platforms**: AWS (IAM, S3, EC2 basics), Cloud misconfiguration testing  
+**🖥️ Operating Systems**: Windows Server, Ubuntu, Kali Linux  
+**📜 Certifications**: CompTIA A+ (in progress), 
 
 ---
 
 ## 🚧 Current Projects
 
-| Project | Description | Tools |
-|--------|-------------|-------|
-| **SSH Brute Force Lab** | Simulated attack detection using Hydra and Splunk | Kali, Splunk, auth.log |
-| **SIEM Alert Dashboard** | Custom Splunk dashboard for log monitoring | Splunk, Syslog, Regex |
-| **AWS S3 Misconfig** | Exploring access control on public vs private buckets | AWS CLI, IAM, S3 |
-| **Home Network Scan** | Network mapping & vulnerability scanning | Nmap, Nessus |
+| Project | What I Did | Why It Matters |
+|---------|------------|----------------|
+| **SSH Brute Force Detection** | Simulated brute force login attempts with Hydra and detected them in Splunk using log correlation | Demonstrates ability to detect common attacks in a SOC role |
+| **SIEM Alert Dashboard** | Built Splunk dashboards with regex filters for real-time log monitoring | Shows skill in monitoring & creating actionable alerts |
+| **AWS S3 Security Test** | Tested public vs private bucket access controls using AWS CLI & IAM | Practical cloud misconfig detection (high ROI skill for security) |
+| **Network Recon Lab** | Mapped home network and scanned for open ports/vulnerabilities with Nmap/Nessus | Demonstrates vulnerability scanning and baseline network assessment |
 
 ---
 
 ## 📈 What I'm Working Toward
 
-- 🤝 Entry-level Cybersecurity / SOC Analyst / Cloud Security Intern roles  
-- 🎓 Finish Security+ + AWS certs by [Dec 2025]  
-- 🚀 Building a strong portfolio to break into cybersecurity & cloud security
+- 🎯 **Target Roles**: SOC Analyst | Cloud Security Intern | Cybersecurity Trainee  
+- 🛡️ **Cert Goals**: CompTIA A+, Network+, Security+, and CySA+ (by Nov 2025)  
+- 📊 **Portfolio**: Publishing weekly labs on GitHub & LinkedIn to document SOC & Cloud workflows  
 
 ---
 
 ## 📫 Let's Connect
 
-- Email: dlucas1102 [at] gmail [dot] com — *open to networking, feedback, and mentorship*
+📧 **Email**: dlucas1102 [at] gmail [dot] com  
+🔗 **GitHub**: [github.com/David-Lucas](https://github.com/David-Lucas)  
+🔗 **LinkedIn**: [linkedin.com/in/david-lucas](https://linkedin.com/in/david-lucas-cyber)  
+
+💡 Open to internships, apprenticeships, and mentorship in Cybersecurity & Cloud Security
