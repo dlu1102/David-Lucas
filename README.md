@@ -1,43 +1,48 @@
-# 👋 Hi, I'm David Lucas
+# 👋 Hi, I'm David Lucas  
 
-🌐 **Cybersecurity & Cloud Trainee**  
-🛡️ Current Student @ MyComputerCareer | 🎓 Using GI Bill to transition into tech  
-🔧 Building hands-on projects in SOC workflows, threat detection, and cloud security
-
----
-
-## 🧰 Tech Skills & Focus Areas
-
-**🔒 Security Tools & Detection**: Splunk, Hydra, Metasploit  
-**☁️ Cloud Platforms**: AWS (IAM, S3, EC2 basics), Cloud misconfiguration testing  
-**🖥️ Operating Systems**: Windows Server, Ubuntu, Kali Linux  
-**📜 Certifications**: CompTIA A+ (in progress), 
+🌐 **Veteran | SOC & Cloud Security Trainee**  
+🎓 Current Student @ MyComputerCareer (CyberWarrior Program, Aug–Nov 2025)  
+🔒 Building hands-on labs in SOC workflows, threat detection, and cloud security  
+📊 Documenting progress weekly on GitHub & LinkedIn | Preparing for **OSCP**  
 
 ---
 
-## 🚧 Current Projects
+## 🧰 Core Skills & Focus Areas  
+
+**🔒 Security & Detection**: Splunk (dashboards, log correlation), SIEM fundamentals, network defense  
+**☁️ Cloud Platforms**: AWS IAM (users, roles, policies), S3/EC2 basics, misconfiguration testing  
+**🖥️ Systems & Networking**: Linux (Ubuntu/Kali), Windows Server, `nmap`, `nc`, `openssl`  
+**💻 Scripting**: Python (log simulation, parsing, security automation)  
+**📜 Certifications**: CompTIA A+ Core 1 ✅ | Core 2 (Sept 2025) | Network+ | Security+ | CySA+ (in progress)  
+
+---
+
+## 🚧 Featured Projects  
 
 | Project | What I Did | Why It Matters |
 |---------|------------|----------------|
-| **SSH Brute Force Detection** | Simulated brute force login attempts with Hydra and detected them in Splunk using log correlation | Demonstrates ability to detect common attacks in a SOC role |
-| **SIEM Alert Dashboard** | Built Splunk dashboards with regex filters for real-time log monitoring | Shows skill in monitoring & creating actionable alerts |
-| **AWS S3 Security Test** | Tested public vs private bucket access controls using AWS CLI & IAM | Practical cloud misconfig detection (high ROI skill for security) |
-| **Network Recon Lab** | Mapped home network and scanned for open ports/vulnerabilities with Nmap/Nessus | Demonstrates vulnerability scanning and baseline network assessment |
+| **OverTheWire Bandit Labs (0–20)** | Practiced Linux fundamentals (permissions, hidden files, encoding, networking) and documented workflows in SOP format | Demonstrates persistence, Linux fluency, and transferable SOC skills |
+| **SSH Brute Force Detection** | Simulated brute force login attempts with Hydra and correlated results in Splunk | Shows ability to detect attacks in SOC workflows |
+| **SIEM Alert Dashboard** | Built Splunk dashboards with regex filters for real-time log monitoring | Proves skill in monitoring and alerting in enterprise-like environments |
+| **Python Log Simulator** | Scripted simulated login attempts (success/fail) to practice log parsing and threat hunting fundamentals | Highlights Python scripting + log analysis for security |
+| **AWS S3 Security Test** | Tested access controls (public vs. private buckets) with AWS CLI & IAM | Demonstrates practical cloud security knowledge |
+| **Network Recon Lab** | Mapped home network and scanned open ports with Nmap | Applies vulnerability scanning and baseline assessment |
 
 ---
 
-## 📈 What I'm Working Toward
+## 📈 What I'm Working Toward  
 
-- 🎯 **Target Roles**: SOC Analyst | Cloud Security Intern | Cybersecurity Trainee  
-- 🛡️ **Cert Goals**: CompTIA A+, Network+, Security+, and CySA+ (by Nov 2025)  
-- 📊 **Portfolio**: Publishing weekly labs on GitHub & LinkedIn to document SOC & Cloud workflows  
+- 🎯 **Target Roles:** SOC Analyst | Cloud Security Intern | Cybersecurity Apprentice  
+- 🛡️ **Certifications in Progress:** A+ (Core 2 scheduled Sept 2025), Network+, Security+, CySA+, OSCP prep  
+- 📂 **Portfolio Cadence:** Weekly GitHub & LinkedIn updates documenting SOC/Cloud workflows  
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect  
 
-📧 **Email**: dlucas1102 [at] gmail [dot] com  
-🔗 **GitHub**: [github.com/David-Lucas](https://github.com/David-Lucas)  
-🔗 **LinkedIn**: [linkedin.com/in/david-lucas](https://linkedin.com/in/david-lucas-cyber)  
+📧 **Email:** dlucas1102 [at] gmail [dot] com  
+🔗 **GitHub:** [github.com/David-Lucas](https://github.com/dlu1102/David-Lucas)  
+🔗 **LinkedIn:** [linkedin.com/in/david-lucas-cyber](https://linkedin.com/in/david-lucas-cyber)  
 
-💡 Open to internships, apprenticeships, and mentorship in Cybersecurity & Cloud Security
+💡 Open to **SOC Analyst / Cloud Security Internships & Apprenticeships** starting Nov 2025.  
+
