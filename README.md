@@ -66,5 +66,5 @@ Documenting projects weekly to demonstrate real-world skills. Preparing for OSCP
 ---
 
 ##  Contact
-- **Email:** dlucas1102 [at] gmail [dot] com  
+- **Email:** dlucas1102@gmail.com  
 - **GitHub:** - **LinkedIn:** www.linkedin.com/in/david-lucas-cyber 
